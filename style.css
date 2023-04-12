@@ -1,0 +1,290 @@
+body
+{
+	background-image: url("img/czarno.png");
+	background-color: #262626;
+	margin: 0px;
+    font-family: 'Raleway', sans-serif;
+	color: white;
+	font-weight: 200;
+}
+
+a:link
+{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+#logo
+{
+	width:100%;
+	margin-left:auto;
+	margin-right: auto;
+	height: 60px;
+	color: #f2f2f2;
+	background-color: #1a1a1a;
+	text-align: center;
+	font-size: 46px;
+	text-transform: uppercase;
+	padding: 5px 0px 5px 0px;
+	letter-spacing: 3px;
+	font-weight: 100;
+	font-family: 'Raleway', sans-serif;
+		
+}
+
+#spis
+{
+	width: 267;
+	height: 46px;
+	background-color: #79a6d2;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: 2px solid #538cc6;
+	border-top: 2px solid #538cc6;
+	border-left: 1px solid #538cc6;
+	border-right: 1px solid #538cc6;
+	clear:both;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+.kafelek
+{
+	width: 20%;
+	height: 26px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	
+}
+
+
+.kafelek:hover
+{
+	background-color: #6699cc;
+	color: #404040;
+}
+
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	width: 898px;
+	background-color: #404040;
+	border-top: 1px solid #1a1a1a;
+	border-bottom: 1px solid #1a1a1a;
+	border-left: 1px solid #1a1a1a;
+	border-right: 1px solid #1a1a1a;
+	font-size: 18px;
+	padding-left: 50px;
+	padding-right: 50px;
+	clear: both;
+	text-align: center;
+	
+}
+
+#container2
+{
+	
+	width:900px;
+	height:210px;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+a.sociallink
+{
+	color: white;
+	text-decoration: none;
+	
+}
+
+#fb
+{
+    
+	background-color: #4668b3;
+	width:210px;
+	height: 210px;
+	text-align: center;
+	
+	float:left;
+	margin-right: 20px;
+	font-size: 170px;
+}
+
+#fb:hover
+{
+	background-color: #3557a2;
+}
+
+#yt
+{
+	
+	background-color: #d94348;
+	width: 210px;
+	height: 200px;
+	text-align: center;
+	margin-right: 20px;
+	font-size: 150px;
+	float:left;
+	padding-top: 10px;
+	
+		
+}
+
+#yt:hover
+{
+	background-color: #c83237;
+	
+}
+
+#tw
+{
+	
+	background-color: #3095d3;
+    width: 200px;
+	height: 185px;
+	text-align: center;
+	margin-right: 20px;
+	font-size: 120px;
+	padding-top: 25px;
+	padding-right: 10px;
+	float:left;
+}
+
+#tw:hover
+{
+	background-color: #2084c2;
+}
+
+#ig
+{
+	
+	background-color: #d147a3;
+	color: white;
+	width: 210px;
+	height: 195px;
+	text-align: center;
+	font-size: 150px;
+	float:left;
+	padding-top: 15px;
+}
+
+#ig:hover
+{
+	background-color: #c036a2;
+}
+
+.stopka
+{
+	color:white;
+	margin-top: 5px;
+	text-align: center;
+	padding-bottom: 5px;
+	clear: both;
+	font-size:14px;
+}
+
+.article
+{
+	width: 900px;
+	height: 350px;
+	font-size:16px;
+	text-align: justify;
+	border-bottom: 1px solid #538cc6;
+	color:#f2f2f2;
+	
+	
+	
+}
+
+
+.obrazekleft
+{
+	float:left;
+	border-bottom: 1px solid #538cc6;
+	border-top: 1px solid #538cc6;
+	border-left: 1px solid #538cc6;
+	border-right: 1px solid #538cc6;
+	margin-right: 20px;
+	
+}
+
+.obrazekright
+{
+	float:right;
+	border-bottom: 1px solid #538cc6;
+	border-top: 1px solid #538cc6;
+	border-left: 1px solid #538cc6;
+	border-right: 1px solid #538cc6;
+	margin-left: 20px;
+	
+}
+
+.pojemnik
+{
+	width: 900px;
+	font-size:15px;
+	margin-bottom: 20px;
+	text-align: center;
+	
+	
+}
+
+.tabela
+{
+	
+	margin-bottom: 20px;
+	border-collapse: collapse;
+    width: 100%;
+	background-color: #626262;
+	font-size: 16px;
+	height: 300px;
+
+}
+
+td, th {
+    border: 1px solid #538cc6;
+    text-align: left;
+    padding: 8px;
+	text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #6797c1;
+}
+
+#napis
+{
+	font-size: 20px;
+	border-bottom: 1px solid #538cc6;
+	
+
+}
+
+
+
+
+
+
+	
+	
+
+
+
