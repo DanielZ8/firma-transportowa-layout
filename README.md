@@ -7,10 +7,10 @@ Przykładowy layout firmy trasportowej stworzony przeze mnie w 2018 roku. Layout
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/firma-transportowa-layout/master/screenshots/1.png?token=GHSAT0AAAAAAB7PL7UNSCNBJKXN7DNDFVHCZBYOGGQ)
+![Screenshot](screenshots/1.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/firma-transportowa-layout/master/screenshots/2.png?token=GHSAT0AAAAAAB7PL7UNUDQNYZW5CFOU66WGZBYOFWA)
+![Screenshot](screenshots/2.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/firma-transportowa-layout/master/screenshots/3.png?token=GHSAT0AAAAAAB7PL7UNSOP5ASCQDFEYIHJSZBYOGTA)
+![Screenshot](screenshots/3.png)
 
-![Screenshot](https://raw.githubusercontent.com/DanielZ8/firma-transportowa-layout/master/screenshots/4.png?token=GHSAT0AAAAAAB7PL7UM6WOMYBNHSNH7MHVCZBYOG3A)
+![Screenshot](screenshots/4.png)
